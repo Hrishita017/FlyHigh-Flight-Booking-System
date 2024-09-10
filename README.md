@@ -1,4 +1,4 @@
-# FlyHigh---Flight-Booking-System
+# FlyHigh-Flight-Booking-System
 Our flight booking system offers a streamlined platform for booking domestic flights within India. It provides a quick and efficient way to search for flights, book tickets, and manage travel plans, ensuring a user-friendly experience with robust backend functionality.
 
 The frontend of the system leverages **React.js** and **Bootstrap**. React.js, with its component-based architecture, enables the creation of reusable UI components and ensures dynamic updates, enhancing user interaction. Bootstrap is used to ensure a responsive, visually appealing interface that adapts to different devices.
