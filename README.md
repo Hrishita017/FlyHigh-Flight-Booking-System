@@ -16,3 +16,6 @@ Key components include:
 - **E-Ticket:** Generates electronic tickets upon successful booking, displaying booking details, passenger information, and a boarding barcode. React.js dynamically renders the ticket, with Bootstrap providing a clean layout.
 
 The **backend** uses **MySQL** for robust data management and **Express.js** for building RESTful APIs, ensuring efficient communication between the frontend and database. Additional tools like **React Router**, **React-Bootstrap**, and **React-icons** enhance navigation, UI consistency, and icon usage.
+
+Here is the link to the video for an overview of how this flyigh website looks like 
+https://drive.google.com/file/d/1YTU8_zgdwnfNkYkYgODmBK4I1MdVOkKG/view?usp=share_link
